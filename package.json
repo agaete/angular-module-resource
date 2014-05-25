@@ -1,0 +1,24 @@
+{
+  "name": "angular-module-resource",
+  "version": "1.2.15",
+  "description": "Resource AngularJS module suitable for bundling with Browserify or Webpack",
+  "main": "angular-resource.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elzair/angular-module-resource.git"
+  },
+  "keywords": [
+    "angular",
+    "browserify",
+    "webpack"
+  ],
+  "author": "Philip Woods <elzairthesorcerer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elzair/angular-module-resource/issues"
+  },
+  "homepage": "https://github.com/Elzair/angular-module-resource"
+}
