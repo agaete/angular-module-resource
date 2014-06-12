@@ -1,7 +1,7 @@
 angular-module-resource
 =======================
 
-Resource AngularJS module suitable for bundling with Browserify or Webpack
+Resource AngularJS module suitable for bundling with [Browserify](http://browserify.org/) or [Webpack](http://webpack.github.io/)
 
 Installation
 ------------
